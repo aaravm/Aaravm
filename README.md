@@ -10,8 +10,8 @@ I'm a Mathematics and Computing student at IIT (BHU) Varanasi with a passion for
 - ⚡ Fun fact: I love chess, and if you dare, challenge me on [chess.com](https://www.chess.com/member/aaravm)
 
 ### 🚀 Projects
-- **[ga4gh-sdk](https://github.com/elixir-cloud-aai/ga4gh-sdk)**: A generic SDK and CLI for GA4GH API services.
-- **[RoboSats Integration](https://github.com/RoboSats/taptrade-core)**: Private P2P Bitcoin exchange using Taproot contracts.
+- **[ga4gh-sdk](https://github.com/elixir-cloud-aai/ga4gh-sdk)**: A generic SDK and CLI for GA4GH API services. **(Google Summer of Code Project)**
+- **[RoboSats Integration](https://github.com/RoboSats/taptrade-core)**: Private P2P Bitcoin exchange using Taproot contracts. **(Summer of Bitcoin Project)**
 - **[Futures on chain](https://github.com/ankur12-1610/futures0xC)**: Zero day futures trading DEX built on Aptos Blockchain
 
 ### My Latest Blog Posts 👇:
